@@ -9,3 +9,14 @@ Designed and implemented dynamic role-based dashboards tailored to each user typ
 Developed an appointment booking system that allows patients to schedule and manage appointments with specialized doctors, with automated email notifications to improve efficiency and user engagement.
 
 Technologies: PHP, Laravel, MySQL, JavaScript, HTML, CSS,livewire
+
+Project Setup Instructions
+1- open cmd or trimal and write 
+git clone https://github.com/Sayed-Ragab/Hospital-mangement-system.git
+
+2- copy  .env.example to .env
+3- composer install
+4- php artisan key:generate.
+5- create database name in php myadmin and same name in .env file
+6- php artisan migrate --seed
+7- php artisan serve
