@@ -11,7 +11,7 @@ Developed an appointment booking system that allows patients to schedule and man
 Technologies: PHP, Laravel, MySQL, JavaScript, HTML, CSS,livewire
 
 Project Setup Instructions
-1- open cmd or trimal and write 
+1- open cmd or terminal and write 
 git clone https://github.com/Sayed-Ragab/Hospital-mangement-system.git
 
 2- copy  .env.example to .env
